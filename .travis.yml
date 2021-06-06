@@ -1,5 +1,6 @@
 sudo: false
 language: node_js
+install: yarn
 node_js:
   - 10
 cache: npm
